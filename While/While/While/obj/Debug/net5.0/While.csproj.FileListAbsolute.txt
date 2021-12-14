@@ -1,0 +1,15 @@
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\bin\Debug\net5.0\While.exe
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\bin\Debug\net5.0\While.deps.json
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\bin\Debug\net5.0\While.runtimeconfig.json
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\bin\Debug\net5.0\While.runtimeconfig.dev.json
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\bin\Debug\net5.0\While.dll
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\bin\Debug\net5.0\ref\While.dll
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\bin\Debug\net5.0\While.pdb
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\obj\Debug\net5.0\While.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\obj\Debug\net5.0\While.AssemblyInfoInputs.cache
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\obj\Debug\net5.0\While.AssemblyInfo.cs
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\obj\Debug\net5.0\While.csproj.CoreCompileInputs.cache
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\obj\Debug\net5.0\While.dll
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\obj\Debug\net5.0\ref\While.dll
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\obj\Debug\net5.0\While.pdb
+E:\Vini\DesafioTarget\Fibonacci\While\While\While\obj\Debug\net5.0\While.genruntimeconfig.cache

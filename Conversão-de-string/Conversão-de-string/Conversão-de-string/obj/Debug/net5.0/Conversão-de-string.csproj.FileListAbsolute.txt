@@ -1,0 +1,16 @@
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\bin\Debug\net5.0\Conversão-de-string.exe
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\bin\Debug\net5.0\Conversão-de-string.deps.json
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\bin\Debug\net5.0\Conversão-de-string.runtimeconfig.json
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\bin\Debug\net5.0\Conversão-de-string.runtimeconfig.dev.json
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\bin\Debug\net5.0\Conversão-de-string.dll
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\bin\Debug\net5.0\ref\Conversão-de-string.dll
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\bin\Debug\net5.0\Conversão-de-string.pdb
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\Conversão-de-string.csprojAssemblyReference.cache
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\Conversão-de-string.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\Conversão-de-string.AssemblyInfoInputs.cache
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\Conversão-de-string.AssemblyInfo.cs
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\Conversão-de-string.csproj.CoreCompileInputs.cache
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\Conversão-de-string.dll
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\ref\Conversão-de-string.dll
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\Conversão-de-string.pdb
+E:\Vini\DesafioTarget\Conversão-de-string\Conversão-de-string\Conversão-de-string\obj\Debug\net5.0\Conversão-de-string.genruntimeconfig.cache
